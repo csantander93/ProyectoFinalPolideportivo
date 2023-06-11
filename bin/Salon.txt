@@ -1,0 +1,8 @@
+
+
+-------------------------- ACTIVIDAD SALON -----------------------------
+
+Actividad
+idActividad = 5
+Nombre = salonnullLimite de Jugadores = 50
+

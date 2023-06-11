@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD FUTBOL -----------------------------
+
+Actividad
+idActividad = 1
+Nombre = Futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 37352564
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+

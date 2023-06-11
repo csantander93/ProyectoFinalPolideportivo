@@ -1,0 +1,16 @@
+
+ ----- SOCIOS DEL CLUB -----
+
+Socio: 
+credencial = 1
+fechaAlta = 2022-12-07
+mail = erikEmmanuel@gmail.com
+Nombre = Erik
+Apellido = Santander
+DNI = 12345678
+Fecha de Nacimiento = 1994-05-13
+
+
+
+----------------------------------
+

@@ -1,0 +1,71 @@
+
+ ----- ACTIVIDADES DEL CLUB ------
+
+Actividad
+idActividad = 1
+Nombre = futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 11111111
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+
+Actividad
+idActividad = 2
+Nombre = handball
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = handball
+nroLegajo = 22222
+Nombre = Joha
+Apellido = Mendoza
+DNI = 22222222
+Fecha de Nacimiento = 1992-10-15
+
+Limite de Jugadores = 8
+
+Actividad
+idActividad = 3
+Nombre = volley
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = volley
+nroLegajo = 33333
+Nombre = Maria
+Apellido = Zalasar
+DNI = 33333333
+Fecha de Nacimiento = 2000-05-06
+
+Limite de Jugadores = 8
+
+Actividad
+idActividad = 4
+Nombre = tenis
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = tenis
+nroLegajo = 44444
+Nombre = Marcos
+Apellido = Ariel
+DNI = 44444444
+Fecha de Nacimiento = 2002-06-14
+
+Limite de Jugadores = 5
+
+Actividad
+idActividad = 5
+Nombre = salon
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = coordinador de salon
+nroLegajo = 55555
+Nombre = Isabel
+Apellido = Manso
+DNI = 55555555
+Fecha de Nacimiento = 1992-01-15
+

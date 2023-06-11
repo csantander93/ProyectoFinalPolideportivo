@@ -1,0 +1,44 @@
+
+ ----- SERVICIOS DEL CLUB -----
+
+Servicio codigoSevicio = 1, nombreServicio = Actividad
+idActividad = 5
+Nombre = salonnullLimite de Jugadores = 50
+precioSerPorHora = 1000.0, fechaAlquiler=2022-11-01, horaDesde=10:00, horaHasta=19:00
+cliente = Socio: 
+credencial = 1
+fechaAlta = 2022-12-07
+mail = erikEmmanuel@gmail.com
+Nombre = Erik
+Apellido = Santander
+DNI = 12345678
+Fecha de Nacimiento = 1994-05-13
+
+, cantPersonas=40]
+Servicio codigoSevicio = 2, nombreServicio = Actividad
+idActividad = 1
+Nombre = futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 11111111
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+precioSerPorHora = 1000.0, fechaAlquiler=2022-12-01, horaDesde=11:00, horaHasta=12:00
+cliente = Socio: 
+credencial = 1
+fechaAlta = 2022-12-07
+mail = erikEmmanuel@gmail.com
+Nombre = Erik
+Apellido = Santander
+DNI = 12345678
+Fecha de Nacimiento = 1994-05-13
+
+, cantPersonas=10]
+
+----------------------------------
+

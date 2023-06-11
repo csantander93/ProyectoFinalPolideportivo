@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD BASQUET -----------------------------
+
+Actividad
+idActividad = 4
+Nombre = Basquet
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Basquet
+nroLegajo = 44444
+Nombre = Yanet
+Apellido = Mendoza
+DNI = 33333333
+Fecha de Nacimiento = 1990-03-11
+
+Limite de Jugadores = 10
+

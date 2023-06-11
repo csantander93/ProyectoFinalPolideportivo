@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD SALON -----------------------------
+
+Actividad
+idActividad = 5
+Nombre = Salon
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Salon
+nroLegajo = 55555
+Nombre = Soledad
+Apellido = Marquez
+DNI = 33333333
+Fecha de Nacimiento = 2001-04-22
+
+Limite de Jugadores = 60
+

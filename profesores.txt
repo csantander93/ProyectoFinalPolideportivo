@@ -1,0 +1,50 @@
+
+ ----- PROFESORES DEL CLUB -----
+
+
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Handball
+nroLegajo = 22222
+Nombre = Marcos
+Apellido = Rojas
+DNI = 11111111
+Fecha de Nacimiento = 1998-05-06
+
+
+
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Volleyball
+nroLegajo = 33333
+Nombre = Vanesa
+Apellido = Sanchez
+DNI = 22222222
+Fecha de Nacimiento = 2000-03-10
+
+
+
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Basquet
+nroLegajo = 44444
+Nombre = Yanet
+Apellido = Mendoza
+DNI = 33333333
+Fecha de Nacimiento = 1990-03-11
+
+
+
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Salon
+nroLegajo = 55555
+Nombre = Soledad
+Apellido = Marquez
+DNI = 33333333
+Fecha de Nacimiento = 2001-04-22
+
+
+
+----------------------------------
+

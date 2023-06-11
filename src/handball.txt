@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD HANDBALL -----------------------------
+
+Actividad
+idActividad = 2
+Nombre = handball
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = handball
+nroLegajo = 22222
+Nombre = Yanet
+Apellido = Mendoza
+DNI = 22222222
+Fecha de Nacimiento = 1992-10-15
+
+Limite de Jugadores = 12
+

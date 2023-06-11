@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD TENIS -----------------------------
+
+Actividad
+idActividad = 4
+Nombre = tenis
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = tenis
+nroLegajo = 44444
+Nombre = Marcos
+Apellido = Rojo
+DNI = 44444444
+Fecha de Nacimiento = 2000-05-08
+
+Limite de Jugadores = 5
+

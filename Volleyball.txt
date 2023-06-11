@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD VOLLEYBALL -----------------------------
+
+Actividad
+idActividad = 3
+Nombre = Volleyball
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Volleyball
+nroLegajo = 33333
+Nombre = Vanesa
+Apellido = Sanchez
+DNI = 22222222
+Fecha de Nacimiento = 2000-03-10
+
+Limite de Jugadores = 12
+

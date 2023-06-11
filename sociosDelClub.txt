@@ -1,0 +1,76 @@
+
+ ----- SOCIOS DEL CLUB -----
+
+Socio: 
+credencial = 2
+fechaAlta = 2022-12-07
+mail = cMartinez@gmail.com
+Nombre = Cristian
+Apellido = Martinez
+DNI = 11111111
+Fecha de Nacimiento = 1990-03-15
+
+
+Socio: 
+credencial = 3
+fechaAlta = 2022-12-07
+mail = valeSola@gmail.com
+Nombre = Valeria
+Apellido = Solano
+DNI = 22222222
+Fecha de Nacimiento = 1989-04-05
+
+
+Socio: 
+credencial = 4
+fechaAlta = 2022-12-07
+mail = JMarcos@hotmail.com
+Nombre = Juan
+Apellido = Marcos
+DNI = 33333333
+Fecha de Nacimiento = 1994-05-21
+
+
+Socio: 
+credencial = 5
+fechaAlta = 2022-12-07
+mail = rickyAr@yahoo.com.ar
+Nombre = Ricardo
+Apellido = Arjona
+DNI = 44444444
+Fecha de Nacimiento = 1995-05-20
+
+
+Socio: 
+credencial = 6
+fechaAlta = 2022-12-07
+mail = armaGi@gmail.com
+Nombre = Armando
+Apellido = Gimenez
+DNI = 55555555
+Fecha de Nacimiento = 1999-01-13
+
+
+Socio: 
+credencial = 7
+fechaAlta = 2022-12-07
+mail = LoreMen@hotmail.com.ar
+Nombre = Lorena
+Apellido = Mendoza
+DNI = 66666666
+Fecha de Nacimiento = 2002-12-14
+
+
+Socio: 
+credencial = 8
+fechaAlta = 2022-12-07
+mail = RosaVe@gmail.com
+Nombre = Rosario
+Apellido = Vera
+DNI = 77777777
+Fecha de Nacimiento = 2001-10-10
+
+
+
+----------------------------------
+

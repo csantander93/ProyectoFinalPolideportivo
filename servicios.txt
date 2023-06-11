@@ -1,0 +1,198 @@
+
+ ----- SERVICIOS DEL CLUB -----
+
+Servicio codigoSevicio = 1, nombreServicio = Actividad
+idActividad = 1
+Nombre = Futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 37352564
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+precioSerPorHora = 1000.0, fechaAlquiler=2022-01-01, horaDesde=10:00, horaHasta=11:00
+cliente = Socio: 
+credencial = 1
+fechaAlta = 2022-12-07
+mail = santiP@gmail.com
+Nombre = Santiago
+Apellido = Pereyra
+DNI = 12345678
+Fecha de Nacimiento = 1991-02-25
+
+, cantPersonas=10]
+Servicio codigoSevicio = 2, nombreServicio = Actividad
+idActividad = 2
+Nombre = Handball
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Handball
+nroLegajo = 22222
+Nombre = Marcos
+Apellido = Rojas
+DNI = 11111111
+Fecha de Nacimiento = 1998-05-06
+
+Limite de Jugadores = 14
+precioSerPorHora = 900.0, fechaAlquiler=2022-01-01, horaDesde=10:00, horaHasta=11:00
+cliente = Socio: 
+credencial = 1
+fechaAlta = 2022-12-07
+mail = santiP@gmail.com
+Nombre = Santiago
+Apellido = Pereyra
+DNI = 12345678
+Fecha de Nacimiento = 1991-02-25
+
+, cantPersonas=14]
+Servicio codigoSevicio = 3, nombreServicio = Actividad
+idActividad = 3
+Nombre = Volleyball
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Volleyball
+nroLegajo = 33333
+Nombre = Vanesa
+Apellido = Sanchez
+DNI = 22222222
+Fecha de Nacimiento = 2000-03-10
+
+Limite de Jugadores = 12
+precioSerPorHora = 800.0, fechaAlquiler=2022-01-01, horaDesde=10:00, horaHasta=11:00
+cliente = Socio: 
+credencial = 1
+fechaAlta = 2022-12-07
+mail = santiP@gmail.com
+Nombre = Santiago
+Apellido = Pereyra
+DNI = 12345678
+Fecha de Nacimiento = 1991-02-25
+
+, cantPersonas=12]
+Servicio codigoSevicio = 4, nombreServicio = Actividad
+idActividad = 1
+Nombre = Futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 37352564
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+precioSerPorHora = 1000.0, fechaAlquiler=2022-01-01, horaDesde=12:00, horaHasta=13:00
+cliente = Socio: 
+credencial = 2
+fechaAlta = 2022-12-07
+mail = cMartinez@gmail.com
+Nombre = Cristian
+Apellido = Martinez
+DNI = 11111111
+Fecha de Nacimiento = 1990-03-15
+
+, cantPersonas=10]
+Servicio codigoSevicio = 5, nombreServicio = Actividad
+idActividad = 4
+Nombre = Basquet
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Basquet
+nroLegajo = 44444
+Nombre = Yanet
+Apellido = Mendoza
+DNI = 33333333
+Fecha de Nacimiento = 1990-03-11
+
+Limite de Jugadores = 10
+precioSerPorHora = 1200.0, fechaAlquiler=2022-01-01, horaDesde=12:00, horaHasta=13:00
+cliente = Socio: 
+credencial = 3
+fechaAlta = 2022-12-07
+mail = valeSola@gmail.com
+Nombre = Valeria
+Apellido = Solano
+DNI = 22222222
+Fecha de Nacimiento = 1989-04-05
+
+, cantPersonas=10]
+Servicio codigoSevicio = 6, nombreServicio = Actividad
+idActividad = 5
+Nombre = Salon
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Salon
+nroLegajo = 55555
+Nombre = Soledad
+Apellido = Marquez
+DNI = 33333333
+Fecha de Nacimiento = 2001-04-22
+
+Limite de Jugadores = 60
+precioSerPorHora = 10000.0, fechaAlquiler=2022-01-01, horaDesde=15:00, horaHasta=20:00
+cliente = Socio: 
+credencial = 4
+fechaAlta = 2022-12-07
+mail = JMarcos@hotmail.com
+Nombre = Juan
+Apellido = Marcos
+DNI = 33333333
+Fecha de Nacimiento = 1994-05-21
+
+, cantPersonas=50]
+Servicio codigoSevicio = 7, nombreServicio = Actividad
+idActividad = 1
+Nombre = Futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 37352564
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+precioSerPorHora = 1000.0, fechaAlquiler=2022-01-02, horaDesde=12:00, horaHasta=13:00
+cliente = Socio: 
+credencial = 3
+fechaAlta = 2022-12-07
+mail = valeSola@gmail.com
+Nombre = Valeria
+Apellido = Solano
+DNI = 22222222
+Fecha de Nacimiento = 1989-04-05
+
+, cantPersonas=10]
+Servicio codigoSevicio = 8, nombreServicio = Actividad
+idActividad = 1
+Nombre = Futbol
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = Futbol
+nroLegajo = 11111
+Nombre = Cristian
+Apellido = Santander
+DNI = 37352564
+Fecha de Nacimiento = 1993-02-20
+
+Limite de Jugadores = 10
+precioSerPorHora = 1000.0, fechaAlquiler=2022-01-03, horaDesde=08:00, horaHasta=09:00
+cliente = Socio: 
+credencial = 3
+fechaAlta = 2022-12-07
+mail = valeSola@gmail.com
+Nombre = Valeria
+Apellido = Solano
+DNI = 22222222
+Fecha de Nacimiento = 1989-04-05
+
+, cantPersonas=10]
+
+----------------------------------
+

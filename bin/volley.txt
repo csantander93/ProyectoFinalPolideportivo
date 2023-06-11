@@ -1,0 +1,18 @@
+
+
+-------------------------- ACTIVIDAD VOLLEY -----------------------------
+
+Actividad
+idActividad = 3
+Nombre = volley
+Profesor: 
+fechaIngreso = 2022-12-07
+deporte = volley
+nroLegajo = 33333
+Nombre = Jonathan
+Apellido = Malco
+DNI = 33333333
+Fecha de Nacimiento = 1995-05-16
+
+Limite de Jugadores = 5
+
